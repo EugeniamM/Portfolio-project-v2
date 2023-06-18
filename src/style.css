@@ -85,6 +85,10 @@ p {
   text-align: left;
 }
 
+footer i {
+  font-size: 24px;
+}
+
 a {
   font-size: 18px;
   font-weight: 500;
